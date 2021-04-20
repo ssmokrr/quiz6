@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="18dp"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/TextView1"
+        style="@style/TextviewStyle"
+        android:text="Alohaa"
+        android:textColor="@color/colorAccent"
+        android:textSize="25dp" />
+    <TextView
+        android:id="@+id/btnShow"
+        style="@style/ButtonStyle"
+        android:layout_marginTop="200dp"
+        android:gravity="center"
+        android:text="Android Style of a View" />
+</LinearLayout>

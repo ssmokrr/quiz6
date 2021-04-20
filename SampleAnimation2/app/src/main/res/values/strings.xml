@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Animation 2</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="have_a_wonderful_day">Have a Wonderful day!</string>
+    <string name="zoom">Zoom</string>
+    <string name="blink">Blink</string>
+</resources>
